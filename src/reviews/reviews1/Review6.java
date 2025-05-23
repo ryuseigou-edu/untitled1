@@ -1,3 +1,5 @@
+package reviews.reviews1;
+
 public class Review6 {
     public static void main(String[] args){
         System.out.println(105 + 5);
