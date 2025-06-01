@@ -1,7 +1,7 @@
 package practice;
 import java.io.*;
 
-public class practice2_3 {
+public class Practice2_3 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("ようこそ占いの館へ");
